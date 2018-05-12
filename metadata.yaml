@@ -1,0 +1,28 @@
+_repo: The-Journal-of-Negro-History-Volume-6-1921_22149
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf:
+- The Journal of Negro History
+- DE Lyrik
+gutenberg_issued: '2007-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22149'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Periodicals'
+- !lcc 'E151'
+title: The Journal of Negro History, Volume 6, 1921
+url: http://www.gutenberg.org/ebooks/22149
